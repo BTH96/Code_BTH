@@ -9,7 +9,8 @@ public class Entrada {
     // TODO. Realizar el metodo main
 
     public static void main(String[] args){
-        System.out.println("Mi primer Programa");
+
+        system.out.println("Mi primer programa");
 
     }
 }
