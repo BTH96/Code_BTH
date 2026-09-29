@@ -5,14 +5,14 @@ public class EjercicioDos {
         int puntuacion = 0;
         System.out.println("Puntuacion inicial: "+puntuacion);
 
-        int puntuacionSegunda = 5;
-        System.out.println("Despues de la primera modificacion: " +puntuacionSegunda);
+        puntuacion = 5;
+        System.out.println("Despues de la primera modificacion: "+puntuacion);
 
-        int puntuacionTercera = 10;
-        System.out.println("Despues de la segunda modificación: " +puntuacionTercera);
+        puntuacion = 10;
+        System.out.println("Despues de la segunda modificacion: "+puntuacion);
 
-        int puntuacionFinal = 15;
-        System.out.println("Puntuación final: " +puntuacionFinal);
+        puntuacion = 15;
+        System.out.println("Puntuacion final: "+puntuacion);
     }
 
 }
